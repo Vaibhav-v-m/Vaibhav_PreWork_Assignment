@@ -1,5 +1,5 @@
 # Vaibhav_PreWork_Assignment
-A program that performs multiple operations: 
+A Java program that performs multiple operations: 
 
 -Check for palindrome number
 
